@@ -31,7 +31,7 @@ Responsibility:
 &#8194;&#8194;2. According to the project requirements or business needs, other tasks.
 Mainly using Kubernetes, Docker, Micro Service, Go, Java, Spring, JavaScript, React, Redux, Maven, Git, Linux.
 
-**Company Name: Hewlett Packard Enterprise, 2015/11 – 2017/04**
+**Company Name: Hewlett Packard Enterprise, 2015/11 – 2017/04**  
 Position: Senior Software Engineer  
 Project Name：HPE Release Control, HPE Service Manager  
 Tools：IntelliJ IDEA, Flash Builder, Sublime Text  
