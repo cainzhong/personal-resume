@@ -19,8 +19,7 @@ Oracle Certified Professional
 BULATS  F2F  3.5  
 TOEIC  760
 
-**WORK EXPERIENCE**
-
+**WORK EXPERIENCE**  
 **Company Name: Micro Focus, 2017/04 – Present**  
 Position: Senior Software Engineer  
 Project Name：SMA  
@@ -45,7 +44,7 @@ Responsibility：
 &#8194;&#8194;2. According to the project requirements or business needs, other tasks.
 Mainly using Java, JavaMail, JavaScript, Spring, Hibernate, Flex, Oracle, SQL Server, H2 Database, Maven, Ant, SVN, Git, Linux.
 
-**Company Name: Citigroup Services and Technology (China) Limited (CSTC), 2014/11 – 2015/11**
+**Company Name: Citigroup Services and Technology (China) Limited (CSTC), 2014/11 – 2015/11**  
 Position: Software Engineer  
 Project Name：Eclipse  
 Tools：IBM Websphere Portlet Factory  
