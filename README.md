@@ -2,13 +2,13 @@
 
 **Personal Details**
 
-Name: ZHONG Tao  <div align=right><img height="100" src="https://github.com/cainzhong/personal-resume/blob/master/assets/profile_photo.jpg" /></div>  
+Name: ZHONG Tao  
 Gender: Male
 Date of Birth: January 24, 1991  
 Nationality: Shanghai, China  
 Email: cainzhong@aliyun.com  
 Phone: +86 15201912755  
-Languages Known: Chinese and English 
+Languages Known: Chinese and English<img height="200" src="https://github.com/cainzhong/personal-resume/blob/master/assets/profile_photo.jpg" align="right"/>
 
 **Education Background**
 
