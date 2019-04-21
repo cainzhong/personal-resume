@@ -2,7 +2,7 @@
 
 **Personal Details**
 
-Name: ZHONG Tao   <img src="https://github.com/cainzhong/personal-resume/blob/master/assets/profile_photo.jpg" />  
+Name: ZHONG Tao   <img style="height: 200px;float: right;top: -50px;right: 80px;position: relative;" src="https://github.com/cainzhong/personal-resume/blob/master/assets/profile_photo.jpg" />  
 Gender: Male
 Date of Birth: January 24, 1991  
 Nationality: Shanghai, China  
